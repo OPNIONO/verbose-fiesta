@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "5b3dc820-959b-3b84-9e47-0d2d557f6d5c",
+    "name": "Tuk4Tuk",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "06d082fc-1f22-3659-9cbd-8715295f2739",
+    "name": "ExpertDead",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "85eb92cd-703d-34df-ab47-e90f3e5a490e",
+    "name": "ItzRosstheboss",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
